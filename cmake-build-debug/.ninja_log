@@ -1,0 +1,10 @@
+# ninja log v5
+2	115	6870478295201104	CMakeFiles/Lab1.dir/zad1_2.c.obj	44ec4b76046a139b
+1	75	6870478114701157	CMakeFiles/Lab1.dir/zad1_3.c.obj	f10ab77a7878ccf9
+2	69	6870422453427671	CMakeFiles/Lab1.dir/zad1_1-3.c.obj	46bed39ed407abab
+1	59	6871959684112109	CMakeFiles/Lab1.dir/zad1_1.c.obj	64e59c8405eb5b56
+2	61	6871958887780201	CMakeFiles/Lab1.dir/InputOutput.c.obj	4c8e7dcc3a2c8747
+1	122	6878129236799775	build.ninja	e4621ec80cbb5417
+63	149	6871967845298434	Lab1.exe	6727158e25274792
+1	62	6870427008263729	CMakeFiles/Lab1.dir/zad3.c.obj	b34e2026929062fc
+2	63	6871967844460677	CMakeFiles/Lab1.dir/zad2.c.obj	ae4b9d83f16d830a
